@@ -22,7 +22,7 @@ When installed, Claude Code will automatically reference these brand guidelines 
 ```bash
 # Clone into your Claude Code skills directory
 cd ~/.claude/skills
-git clone https://github.com/YOUR_USERNAME/ksu-brand-standards-skill.git ksu-brand-standards
+git clone https://github.com/lailajtharrison/ksu-brand-standards-skill.git ksu-brand-standards
 ```
 
 ### Option 2: Add to a project
@@ -31,14 +31,14 @@ git clone https://github.com/YOUR_USERNAME/ksu-brand-standards-skill.git ksu-bra
 # Clone into your project's .claude/skills directory
 cd your-project
 mkdir -p .claude/skills
-git clone https://github.com/YOUR_USERNAME/ksu-brand-standards-skill.git .claude/skills/ksu-brand-standards
+git clone https://github.com/lailajtharrison/ksu-brand-standards-skill.git .claude/skills/ksu-brand-standards
 ```
 
 ### Option 3: Install via Claude Code slash command
 
 In Claude Code, run:
 ```
-/install-skill https://github.com/YOUR_USERNAME/ksu-brand-standards-skill
+/install-skill https://github.com/lailajtharrison/ksu-brand-standards-skill
 ```
 
 ## Usage
